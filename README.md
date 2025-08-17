@@ -1,5 +1,10 @@
 ![NFT Marketplace on Stacks](./marketplace-screenshot.png)
 
+nft trait contract address = ST3YD3FDPWRKJ3BZ2BFA1YFKKZ8W87V79QE43EHG4.nft-trait
+nftmarketplace  address =taking too much gas
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b46a9f6b-fa99-4703-a241-e95a794b9edd" />
+
 This is a full-stack demo of an NFT marketplace built on the Stacks blockchain, allowing users to mint, list, and purchase NFTs using STX tokens. This project demonstrates how to build decentralized Stacks applications using Clarity smart contracts and Next.js with the Hiro Platform.
 
 By following this guide, you can have a working NFT marketplace live on the Stacks blockchain in less than 5 minutes!
