@@ -1,0 +1,2 @@
+nft trait contract address = ST3YD3FDPWRKJ3BZ2BFA1YFKKZ8W87V79QE43EHG4.nft-trait nftmarketplace address =taking too much gas
+
